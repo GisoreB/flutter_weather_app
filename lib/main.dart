@@ -3,7 +3,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-const String openWeatherMapApiKey = 'c40d3b09ec2188cbbe4e946b8b7b723d';  // Enter OpenWeatherAPI Here
+const String openWeatherMapApiKey = '';  // Enter OpenWeatherAPI Here
 
 void main() {
   if (openWeatherMapApiKey == '') {
